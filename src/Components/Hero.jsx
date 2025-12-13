@@ -14,7 +14,7 @@ const Hero = () => {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-teal-800 leading-tight">
               Premier <span className="text-teal-500">Website</span> & <br />
               <span className="text-cyan-600">Mobile App</span> <br />
-              Development Agency
+              Development Startup
             </h1>
             
             <p className="mt-6 text-lg text-slate-600 max-w-lg leading-relaxed">
