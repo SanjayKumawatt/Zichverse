@@ -20,7 +20,7 @@ const WhyChooseUs = () => {
         {
             icon: <LayoutGrid size={40} className="text-cyan-300" />,
             title: "Awesome Results",
-            description: "Our Digital Marketing services will give the awesome results. We face the competitive challenges in the market and keep up with the race today. We help our clients efficiently."
+            description: "Our services will give the awesome results. We face the competitive challenges in the market and keep up with the race today. We help our clients efficiently."
         }
     ];
 

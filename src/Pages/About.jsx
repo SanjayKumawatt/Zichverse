@@ -50,7 +50,7 @@ const About = () => {
               <h3 className="text-2xl font-bold text-teal-700 mb-4">About ZICHVERSE</h3>
               
               <p className="text-slate-600 leading-relaxed mb-4 text-justify">
-                <span className="font-bold text-slate-800">ZICHVERSE PRIVATE LIMITED</span> is an expert in the field of creative Website & Application Designing, Digital Marketing, and Search Engine Optimization (SEO). We are a team of young and energetic technical savvies, hungry for the latest innovative technologies on the web.
+                <span className="font-bold text-slate-800">ZICHVERSE PRIVATE LIMITED</span> is an expert in the field of creative Website & Application Designing and Search Engine Optimization (SEO). We are a team of young and energetic technical savvies, hungry for the latest innovative technologies on the web.
               </p>
               
               <p className="text-slate-600 leading-relaxed mb-4 text-justify">

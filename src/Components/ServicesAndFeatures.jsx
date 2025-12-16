@@ -23,12 +23,7 @@ const ServicesAndFeatures = () => {
       bg: "bg-teal-50",
       border: "border-teal-100"
     },
-    { 
-      title: "Digital Marketing", 
-      icon: <Megaphone size={40} className="text-orange-500" />, 
-      bg: "bg-orange-50",
-      border: "border-orange-100"
-    },
+    
     { 
       title: "Graphics Designing", 
       icon: <PenTool size={40} className="text-slate-500" />, 
