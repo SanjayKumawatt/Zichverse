@@ -12,10 +12,6 @@ const FAQ = () => {
 
   const faqData = [
     {
-      question: "How Long Have You Been On Market?",
-      answer: "We have been serving in the digital space for over 5 years, delivering high-quality web and mobile solutions to clients globally."
-    },
-    {
       question: "Which Software Development Services Do You Provide?",
       answer: "We provide a complete range of services including Android & iOS App Development, Web Design & Development, Digital Marketing (SEO/SEM), Graphics Designing, and ongoing Maintenance & Support."
     },
